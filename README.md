@@ -1,2 +1,2 @@
-# Coursera_NodeJs
+# Coursera_AngularJs
 NodeJs Repo
